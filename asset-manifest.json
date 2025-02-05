@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Personal-Website/static/css/main.80f564c6.css",
+    "main.js": "/Personal-Website/static/js/main.c3d311d5.js",
+    "static/js/770.b477def6.chunk.js": "/Personal-Website/static/js/770.b477def6.chunk.js",
+    "static/js/453.1407b060.chunk.js": "/Personal-Website/static/js/453.1407b060.chunk.js",
+    "static/media/Keeb.jpg": "/Personal-Website/static/media/Keeb.9ac804c58c2127b6e1d1.jpg",
+    "static/media/streetcar.jpg": "/Personal-Website/static/media/streetcar.a793ab05028561762261.jpg",
+    "static/media/codingGif.gif": "/Personal-Website/static/media/codingGif.7b5b52036de9d1a893c4.gif",
+    "static/media/home-main.png": "/Personal-Website/static/media/home-main.764ecb19addd248fc080.png",
+    "static/media/LetsBoilAComputer.png": "/Personal-Website/static/media/LetsBoilAComputer.e352ad5cf156d53ddb92.png",
+    "static/media/about.png": "/Personal-Website/static/media/about.47a0b6d8b33104c200ef.png",
+    "static/media/riscv.svg": "/Personal-Website/static/media/riscv.76d4c331070aca4e7910ea8bdefb9a3a.svg",
+    "static/media/Jesus Arias - Resume.pdf": "/Personal-Website/static/media/Jesus Arias - Resume.9d2a270cf8dea57867a3.pdf",
+    "static/media/MCHP.png": "/Personal-Website/static/media/MCHP.2b4c4658613ec1a0f928.png",
+    "static/media/avatar.svg": "/Personal-Website/static/media/avatar.b93930628318f72421ed3a1b23b42115.svg",
+    "static/media/pre.svg": "/Personal-Website/static/media/pre.2ac3347f160a2736cfac.svg",
+    "index.html": "/Personal-Website/index.html",
+    "main.80f564c6.css.map": "/Personal-Website/static/css/main.80f564c6.css.map",
+    "main.c3d311d5.js.map": "/Personal-Website/static/js/main.c3d311d5.js.map",
+    "770.b477def6.chunk.js.map": "/Personal-Website/static/js/770.b477def6.chunk.js.map",
+    "453.1407b060.chunk.js.map": "/Personal-Website/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80f564c6.css",
+    "static/js/main.c3d311d5.js"
+  ]
+}
